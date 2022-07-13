@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">uascoba</string>
+    <string-array name="numbers">
+        <item>MATA KULIAH</item>
+        <item>Mobile Computing</item>
+        <item>si Web</item>
+        <item>pemrosesan data terdistribusi</item>
+        <item>komputasi cerdas</item>
+        <item>komputer Masyarakat</item>
+        <item>bahasa ingrris profisiensi</item>
+        <item>simulator peswat digital</item>
+        <item></item>
+    </string-array>
+</resources>
